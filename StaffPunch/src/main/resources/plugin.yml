@@ -1,0 +1,10 @@
+name: StaffPunch
+main: uk.tjevans.staffPunch.StaffPunch
+version: 0.0.1
+
+permissions:
+    punch.staff:
+        default: op
+    
+    punch.bepunched:
+        default: op
